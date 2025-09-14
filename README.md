@@ -63,6 +63,14 @@ source venv/bin/activate   # Linux/Mac
 pip install -r requirements.txt
 ```
 
+Устанавливаем Poppler (нужен для конвертации PDF → PNG):
+
+Скачайте Poppler 25.07.0 (release)
+https://github.com/oschwartz10612/poppler-windows/releases/
+Распакуйте архив, например в C:\poppler\
+
+Добавьте путь C:\poppler\Library\bin в PATH системы (или пропишите явно в prod.py)
+
 ### 4. Запуск OCR обработки PDF
 
 ``` bash
