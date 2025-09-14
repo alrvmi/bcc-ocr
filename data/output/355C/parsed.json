@@ -1,0 +1,15 @@
+{
+  "file_folder": "355C",
+  "fields": {
+    "file_folder": "355C",
+    "contract_number": "IС-45-2022",
+    "date_start": "2022-09-01",
+    "date_end": "2023-12-31",
+    "counterparty": "директора Андрея Тараканова",
+    "amount": 0.98,
+    "currency": null,
+    "payment_currency": "ЕВРО",
+    "avg_confidence": 0.945
+  },
+  "raw_text_preview": "--- Страница 1 ---\nCOREX  (conf=1.00)\nРАМОЧНЫЙ ДОГОВОР № IС-45-2022  (conf=0.97)\nMASTER AGREEMENT No. IC-45-2022  (conf=0.99)\nОт 1 Сентября 2022 г., Москва  (conf=0.97)\nDated September 01, 2022, Moscow  (conf=1.00)\nКОРЕКС ЛОДЖИСТИКС ЛИМИТЕД,  (conf=0.98)\nCOREX LOGISTICS LIMITED,  (conf=0.99)\nюридическое  (conf=0.97)\na legal entity duly organised and operating under the laws  (conf=0.98)\nлицо,  (conf=0.79)\nзарегистрированное  (conf=0.94)\nдолжным  (conf=0.72)\nобразом  (conf=0.99)\nof the Republic of Ireland under the registration number  (conf=0.99)\nИ  (conf=0.72)\nдействующее  (conf=1.00)\nB  (conf=1.00)\nсоответствии  (conf=0.99)\nC  (conf=0.89)\nзаконодательством  (conf=1.00)\nИрландия  (conf=0.99)\nпод  (conf=0.85)\n540725, having its registered address at Suite 40, The  (conf=0.98)\nРеспублики  (conf=0.84)\nрегистрационным номером  (conf=0.99)\n540725,  (conf=0.98)\nюридический  (conf=0.99)\nGuinness Enterprise Centre, Taylor's Lane, Dublin 8,  (conf=0.98)\naдpec: Suite 40, The Guinness Enterprise Centre, Taylor's  (conf=0.98)\nIreland, represented by Director Andrey Tarakanov, further  (conf=0.99)\nLane, Dublin 8, Ireland (Ирландия, Дублин 8, Тейлорс  (conf=0.89)\nreferred to as « ConTRAcToR», on the one side,  (conf=0.92)\nЛейн, Центр Гиннесс Энтерпрайз, офис 40), в лице  (conf=0.96)\nдиректора Андрея Тараканова, именуемое далее  (conf=0.97)\n«ИСПОЛНИТЕЛЬ », С ОДНОЙ СТОРОНы,  (conf=0.81)\nИ  (conf=0.53)\nand  (conf=1.00)\nООО «КОРЕКСФАРМ,  (conf=0.93)\nCOREXPHARM LLC,  (conf=0.99)"
+}

@@ -1,0 +1,15 @@
+{
+  "file_folder": "C781",
+  "fields": {
+    "file_folder": "C781",
+    "contract_number": "_/2024/28_from",
+    "date_start": "2024-04-17",
+    "date_end": null,
+    "counterparty": "ТОО «Дигам», в лице директора (conf=0.91)",
+    "amount": 1.2,
+    "currency": null,
+    "payment_currency": "евро",
+    "avg_confidence": 0.9370144131777626
+  },
+  "raw_text_preview": "--- Страница 1 ---\nКонтракт /CONTRACT  (conf=0.86)\n№_/2024/28_from 17.04.2024  (conf=0.96)\nСтороны:  (conf=0.99)\nContractors:  (conf=1.00)\nТОО «Дигам», в лице директора  (conf=0.91)\nМедетбекова  (conf=0.94)\n\"Digam\" LLP in the person of director Medetbekov  (conf=0.97)\nA.K.,  (conf=0.98)\nг.Алматы,  (conf=0.92)\nпр.  (conf=0.60)\nРыsкулова  (conf=0.63)\n140/4,  (conf=0.98)\nA.K.  (conf=1.00)\nAlmaty, Ryskulov Str 140/4, Republie  (conf=0.99)\ne of  (conf=0.85)\nРеспублика  (conf=0.90)\nКазахстан,  (conf=0.97)\nKazakhstan hereinafter referred to as \"The Seller\" on  (conf=0.96)\nименуемое  (conf=0.99)\nB  (conf=1.00)\nдальнейшем  (conf=1.00)\n«Продавец»,  (conf=0.96)\nодной  (conf=0.71)\nhand,  (conf=0.99)\n, and UAB  (conf=0.93)\n3 \"Mega\"  (conf=0.77)\nin the  (conf=0.98)\nстороны,  (conf=0.95)\nthe  (conf=1.00)\none  (conf=1.00)\nperson  (conf=1.00)\nof  (conf=1.00)\nC  (conf=0.94)\nH  (conf=0.68)\nUAB  (conf=1.00)\n\"Mega\"  (conf=0.88)\nДиректора,  (conf=0.91)\nDirector  (conf=1.00)\nMiroslavas  (conf=1.00)"
+}

@@ -1,0 +1,15 @@
+{
+  "file_folder": "6708",
+  "fields": {
+    "file_folder": "6708",
+    "contract_number": null,
+    "date_start": "2024-04-12",
+    "date_end": "2024-12-31",
+    "counterparty": "Николаевича",
+    "amount": 2.0,
+    "currency": null,
+    "payment_currency": "USD",
+    "avg_confidence": 0.9160491299897646
+  },
+  "raw_text_preview": "--- Страница 1 ---\nKOHTPAKT N HDEL-Tech/4  (conf=0.98)\nCONTRACT N HDEL-Tech/4  (conf=0.97)\n12.04.2024  (conf=0.99)\n12.04.2024  (conf=1.00)\nТоварищество с ограниченной  (conf=0.98)\n\"Hyundai Elevators\" Limited Liability Partnership, Astana,  (conf=0.95)\nответственностью  (conf=0.99)\n«Нуundai Elevators», г. Aстaна, Peспублика Казахстан,  (conf=0.81)\nRepublic of Kazakhstan, represented by Dyo Dmitriy  (conf=0.99)\nB  (conf=0.47)\nлице  (conf=1.00)\nNikolaevich, General Director, hereinafter referred to as the  (conf=0.98)\nНиколаевича, именуемое в дальнейшем \"Покупатель\",  (conf=0.98)\n\"Buyer\", on the one part, and HYUNDAITECH EL CO., LTD,  (conf=0.98)\nс одной стороны, и фирма HYUNDАIТECH EL CO.,  (conf=0.90)\nSeoul, Republic of Korea, represented by Director Ms. H.J.  (conf=0.99)\nLTD, г. Сеул, Республика Корея, Директора г-жи Х.Ж.  (conf=0.95)\nJung, hereinafter referred to as the \"Seller\", on the other  (conf=0.97)\nЖонг, именуемая в дальнейшем \"Продавец\", с другой  (conf=0.98)\npart, have concluded the present Contract (the \"Contract\")  (conf=0.98)\nстороны,  (conf=0.96)\nзаключили  (conf=0.99)\nконтракт  (conf=0.99)\nas follows:  (conf=0.97)\nнастоящий  (conf=0.99)\n0  (conf=0.74)\nнижеследующем:  (conf=0.99)\n1. Предмет Контракта  (conf=0.99)\n1. Subject of the Contract  (conf=0.97)\n1.1. Продавец продает, а Покупатель приобретает 6  (conf=0.95)\n1.1. The \"Seller\" sells and the \"Buyer\" buys 6 (six) set of  (conf=0.95)\n(шесть)  (conf=0.98)\nлифтового  (conf=0.99)\nоборудования  (conf=0.99)\nelevator equipment made in China, Shanghai (hereinafter  (conf=0.99)\nкомплектов  (conf=0.99)\nпроизводства Китай, г. Шанхай, (здесь и далее  (conf=0.97)\n—  (conf=0.76)\nreferred to as \"Equipment\") produced by Hyundai Elevator  (conf=0.98)"
+}
