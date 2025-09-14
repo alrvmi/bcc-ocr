@@ -2,7 +2,7 @@ from paddleocr import PaddleOCR
 
 ocr = PaddleOCR(use_textline_orientation=True, lang='ru')
 
-img_path = './data/scans/8A16.jpg'
+img_path = './data/scans/8A16.pdf'
 result = ocr.predict(img_path)
 
 # Достаём только текст и confidence
